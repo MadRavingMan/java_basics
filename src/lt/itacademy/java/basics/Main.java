@@ -1,7 +1,7 @@
 package lt.itacademy.java.basics;
 
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
 //        Basic.helloIAm();
 //        Basic.helloWorldPrimitives();
@@ -21,6 +21,6 @@ public class Main {
 //        Loops.calcHoursMinsInYearWhleLoop(365);
 //        Loops.calcFactionalNo(5);
 
-Calculator.calcFigurePerimeterArea();
+        Calculator.calcFigurePerimeterArea();
     }
 }

@@ -112,7 +112,7 @@ public class Calculator {
 //                    System.exit(0);
                     break;
                 default:
-                    System.out.println("Could not understand command " + figure +". Please repeat.");
+                    System.out.println("Could not understand command " + figure + ". Please repeat.");
             }
 
 
